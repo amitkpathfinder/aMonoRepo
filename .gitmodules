@@ -1,0 +1,6 @@
+[submodule "subrepoRN"]
+	path = subrepoRN
+	url = https://github.com/amitkpathfinder/subrepoRN.git
+[submodule "subRepo"]
+	path = subRepo
+	url = https://github.com/amitkpathfinder/subRepo.git
